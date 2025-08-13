@@ -1,0 +1,14 @@
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\PofCast\bin\Debug\net8.0\PodCast.exe
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\PofCast\bin\Debug\net8.0\PodCast.deps.json
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\PofCast\bin\Debug\net8.0\PodCast.runtimeconfig.json
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\PofCast\bin\Debug\net8.0\PodCast.dll
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\PofCast\bin\Debug\net8.0\PodCast.pdb
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\PofCast\obj\Debug\net8.0\PodCast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\PofCast\obj\Debug\net8.0\PodCast.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\PofCast\obj\Debug\net8.0\PodCast.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\PofCast\obj\Debug\net8.0\PodCast.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\PofCast\obj\Debug\net8.0\PodCast.dll
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\PofCast\obj\Debug\net8.0\refint\PodCast.dll
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\PofCast\obj\Debug\net8.0\PodCast.pdb
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\PofCast\obj\Debug\net8.0\PodCast.genruntimeconfig.cache
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\PofCast\obj\Debug\net8.0\ref\PodCast.dll
