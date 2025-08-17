@@ -1,0 +1,15 @@
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\ScreenSound-API\bin\Debug\net8.0\ScreenSound-API.exe
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\ScreenSound-API\bin\Debug\net8.0\ScreenSound-API.deps.json
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\ScreenSound-API\bin\Debug\net8.0\ScreenSound-API.runtimeconfig.json
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\ScreenSound-API\bin\Debug\net8.0\ScreenSound-API.dll
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\ScreenSound-API\bin\Debug\net8.0\ScreenSound-API.pdb
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\ScreenSound-API\obj\Debug\net8.0\ScreenSound-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\ScreenSound-API\obj\Debug\net8.0\ScreenSound-API.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\ScreenSound-API\obj\Debug\net8.0\ScreenSound-API.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\ScreenSound-API\obj\Debug\net8.0\ScreenSound-API.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\ScreenSound-API\obj\Debug\net8.0\ScreenSound-API.sourcelink.json
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\ScreenSound-API\obj\Debug\net8.0\ScreenSound-API.dll
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\ScreenSound-API\obj\Debug\net8.0\refint\ScreenSound-API.dll
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\ScreenSound-API\obj\Debug\net8.0\ScreenSound-API.pdb
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\ScreenSound-API\obj\Debug\net8.0\ScreenSound-API.genruntimeconfig.cache
+C:\Users\Leandro\Desktop\Cursos\Programacao\OrientacaoObjetos\ScreenSound-API\obj\Debug\net8.0\ref\ScreenSound-API.dll

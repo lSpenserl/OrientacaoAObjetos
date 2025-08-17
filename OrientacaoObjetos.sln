@@ -5,14 +5,16 @@ VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrientacaoObjetos", "OrientacaoObjetos\OrientacaoObjetos.csproj", "{94D9C4CB-7762-418C-9736-E69A84BCD7CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenSound", "ScreenSound\ScreenSound.csproj", "{6B1C98D0-2376-45BC-80D4-7D33140BB0C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScreenSound", "ScreenSound\ScreenSound.csproj", "{6B1C98D0-2376-45BC-80D4-7D33140BB0C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PodCast", "PofCast\PodCast.csproj", "{918B5943-8CAD-45AF-90D2-25F7000775C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PodCast", "PofCast\PodCast.csproj", "{918B5943-8CAD-45AF-90D2-25F7000775C7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{10856030-9C14-40C8-B167-245F0EE80C49}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenSound-API", "ScreenSound-API\ScreenSound-API.csproj", "{D083AC94-24E8-4160-A369-9CCEF085283B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,6 +34,10 @@ Global
 		{918B5943-8CAD-45AF-90D2-25F7000775C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{918B5943-8CAD-45AF-90D2-25F7000775C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{918B5943-8CAD-45AF-90D2-25F7000775C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D083AC94-24E8-4160-A369-9CCEF085283B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D083AC94-24E8-4160-A369-9CCEF085283B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D083AC94-24E8-4160-A369-9CCEF085283B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D083AC94-24E8-4160-A369-9CCEF085283B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
